@@ -1,7 +1,7 @@
 <?php
 ob_start();
 ?>
-<h1 class="text-2xl">Index Page</h1>
+<div class=""></div>
 <?php
 $content = ob_get_clean();
 require VIEW . "/template.php";
