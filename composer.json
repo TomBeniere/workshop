@@ -1,0 +1,14 @@
+{
+    "name": "tbeni/workshop",
+    "authors": [
+        {
+            "name": "TOM BENIERE",
+            "email": "tbeniere@protonmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+      }
+}
